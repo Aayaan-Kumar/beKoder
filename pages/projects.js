@@ -11,7 +11,7 @@ const Projects = ({ projects }) => {
   return (
     <div>
       <Head>
-        <title>CodersEra - Projects</title>
+        <title>BeKoder - Projects</title>
         <meta name="description" content="CodersEra" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
