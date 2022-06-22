@@ -8,6 +8,7 @@ export default function Home() {
         <title>BeKoder - Share the Code</title>
         <meta name="description" content="BeKoder" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="nAau3cRiJFyZOVnKr4jlBCKW0xff6ORAgxYZjYQHVgI" />
       </Head>
       <main>
       <div>
