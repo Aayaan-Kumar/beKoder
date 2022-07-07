@@ -14,7 +14,7 @@ const Navbar = () => {
                 </Link>
             </div>
             <div className='nav justify-right'>
-                <ul className='flex space-x-6 font-semibold ml-5'>
+                <ul className='flex space-x-6 px-2 font-semibold ml-5'>
                     <Link href={'/projects'}><a><li className='text-gray-700 hover:text-black'>Projects</li></a></Link>
                     <Link href={'/creativity'}><a><li className='text-gray-700 hover:text-black'>Your Creativity</li></a></Link>
                     <Link href={'/contact'}><a><li className='text-gray-700 hover:text-black'>Contact</li></a></Link>
