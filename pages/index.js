@@ -9,7 +9,6 @@ export default function Home() {
         <meta name="description" content="BeKoder" />
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="WuQ9OpdL0B248z-aRwSWsxu_DmTrsw1DtVdx8V4CEEY" />
-        <script>(function(w, d) { w.CollectId = "62bbfe7b7fd5da5e20c6907a"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
       </Head>
       <main>
       <div>
