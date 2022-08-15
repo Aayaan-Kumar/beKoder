@@ -11,8 +11,6 @@ const Projects = ({ projects }) => {
   return (
     <div>
       <Head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1858086125833373"
-     crossorigin="anonymous"></script>
         <title>BeKoder - Projects</title>
         <meta name="description" content="CodersEra" />
         <link rel="icon" href="/favicon.ico" />
