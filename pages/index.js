@@ -14,8 +14,6 @@ export default function Home() {
       <div>
         <img src="/home.jpg" alt='Home' />
       </div>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1858086125833373"
-     crossorigin="anonymous"></script>
       <div>
         <section className="text-gray-600 body-font">
           <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
